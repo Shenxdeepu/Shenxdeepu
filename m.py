@@ -450,6 +450,6 @@ def broadcast_message(message):
 while True:
     try:
         bot.polling(none_stop=True)
-    except Exception as
-       
+    except Exception as e: 
+       print(e)
 
