@@ -22,7 +22,8 @@ This repository contains a Telegram bot designed to perform DDoS attacks. The bo
 ### Installation
 
 1. Clone the repository:
-   ```sh  https://github.com/Shenxdeepu/Shenxdeepu.git
+   ```sh
+   https://github.com/Shenxdeepu/Shenxdeepu.git
    ```
 
 2. Install the required libraries:
